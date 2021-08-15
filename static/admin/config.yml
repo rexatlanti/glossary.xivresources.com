@@ -12,8 +12,9 @@ site_url: https://glossary.xivresources.com
 show_preview_links: true
 collections:
   - name: 'terms'
-    label: 'Term'
-    folder: 'content/term'
+    label: 'Terms'
+    label_singular: 'Term'
+    folder: 'content'
     create: true
     slug: '{{slug}}'
     preview_path: '{{slug}}'

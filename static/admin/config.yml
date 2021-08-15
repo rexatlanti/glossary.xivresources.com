@@ -1,0 +1,24 @@
+backend:
+  name: github
+  repo: nonowazu/glossary.xivresources.com
+  branch: main # Branch to update (optional; defaults to master)
+  base_url: https://auth.xivresources.com
+  site_domain: glossary.xivresources.com
+  cms_label_prefix: cms/
+publish_mode: editorial_workflow
+media_folder: static/img
+public_folder: /img
+site_url: https://glossary.xivresources.com
+show_preview_links: true
+collections:
+  - name: 'terms'
+    label: 'Term'
+    folder: 'content/term'
+    create: true
+    slug: '{{slug}}'
+    preview_path: '{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }

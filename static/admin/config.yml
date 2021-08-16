@@ -23,3 +23,5 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Opengraph Description', name: 'description', widget: 'string' }
+      - { label: 'Opengraph Image(s)', name: 'images', widget: 'list', field: 'image' }

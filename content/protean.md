@@ -1,6 +1,8 @@
 ---
 title: Protean
 description: A small conal AoE that shouldn't be overlapped
+images:
+  - /img/protean.png
 ---
 A small conal AoE on players that shouldn't be overlapped; the usual resolution of the mechanic is to position players in "clock spots" around the boss.
 

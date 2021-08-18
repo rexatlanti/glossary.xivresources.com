@@ -1,5 +1,5 @@
 ---
-title: Animationlock
+title: Animation Lock
 description: ""
 ---
 

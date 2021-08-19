@@ -1,6 +1,8 @@
 ---
 title: Animation Lock
-description: ""
+description: Animation lock refers to the amount of time your character is
+  locked in animation from casting an action, skill, ability, etc., preventing
+  you from doing any other action.
 ---
 
 

@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: nonowazu/glossary.xivresources.com
+  repo: xivresources/glossary.xivresources.com
   branch: main # Branch to update (optional; defaults to master)
   base_url: https://auth.xivresources.com
   site_domain: glossary.xivresources.com

@@ -1,6 +1,8 @@
 ---
 title: Meteors
 ---
+| | |
+| --- | --- |
 | noun | 1.  	May refer to various "Meteor" spells cast by certain bosses, which must usually be avoided by hiding behind something to break line of sight from the origin point. Being hit by one is almost always a guaranteed death, with possible exceptions for tank "invulnerability" skills. | 
 
 | noun | 2. A mechanic that requires the party to "defeat" several objects around the arena before the meteors they are calling touch the ground. |

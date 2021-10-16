@@ -1,6 +1,8 @@
 ---
 title: Raid Abbreviation Notation
 ---
+| | |
+| --- | --- |
 | noun | 1.  	8-man raids are abbreviated according to the following notation: 
 
 A letter representing the raid series, followed by a floor/encounter number from the series, followed by 'S' or 'N' to specify Savage or Normal difficulty. 

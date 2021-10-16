@@ -1,6 +1,8 @@
 ---
 title: Palace Of The Dead
 ---
+| | |
+| --- | --- |
 | noun | 1.  	"Deep Dungeon" content up to level 60. Has 200 floors.	
 
 Accessible by level 1 jobs and above. 

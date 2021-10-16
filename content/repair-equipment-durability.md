@@ -1,6 +1,8 @@
 ---
 title: Repair/Equipment Condition
 ---
+| | |
+| --- | --- |
 | noun | 1.  	Your equipped gear loses Condition as you defeat enemies or are defeated yourself. If the Condition of a piece of equipment reaches zero, it "breaks" and will not give you any stats until it is repaired. Equipment can be repaired by "Mender" NPCs, which appear as a hammer icon on the map. 
 
 You may also repair your own equipment if you meet the repair requirements and have the requisite material (the appropriate grade of Dark Matter, or higher, purchasable from various vendors). 

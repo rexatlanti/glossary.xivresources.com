@@ -1,6 +1,8 @@
 ---
 title: Coil
 ---
+| | |
+| --- | --- |
 | noun | 1.  	The level 50 Coils of Bahamut raid series. 
 
 The encounters in each of the raid tiers were named "Turn 1, Turn 2, " etc., so they are abbreviated as T1-T13. 
